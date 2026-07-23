@@ -40,8 +40,6 @@ int main(){
         }
     }
 
-    for(auto x: maxpages){
-        cout << x << " ";
-    }
+    cout << maxpages[x];
     return 0;
 }
